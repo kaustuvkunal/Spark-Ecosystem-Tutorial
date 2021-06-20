@@ -5,7 +5,7 @@
 ### Spark & Its Ecosystem [Presentation Slides](https://www.slideshare.net/KaustuvKunal/apache-spark-its-ecosystem-249424395)
 
 ### [Spark Commands]() 
-### [PySpark Tutorial Notebook]()
+### [ Spark PySpark Tutorial Notebook](https://github.com/kaustuvkunal/Spark-Ecosystem-Tutorial/blob/main/Pyspak_demo.ipynb)
 ### [SPARK-SQL]()
 ### [Spark Streaming]()
 ### [Spark Structured-Streaming]()
