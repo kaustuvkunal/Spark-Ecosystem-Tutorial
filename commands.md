@@ -1,4 +1,4 @@
-## Spark Commands : (From spark home directory)
+## Spark Commands : ( run from spark home directory)
 
 - Start master : 
   `sbin/start-master.sh`
