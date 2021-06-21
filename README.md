@@ -10,7 +10,7 @@
 ### Spark Streaming [Tutorial Notebook](https://github.com/kaustuvkunal/Spark-Ecosystem-Tutorial/blob/main/Spark_Streaming_Tutorial.ipynb)
 ### Spark Structured-Streaming [Tutorial Notebook](https://github.com/kaustuvkunal/Spark-Ecosystem-Tutorial/blob/main/Structured_Streaming_Tutorial.ipynb)
 
-###  Spark MLlib Notebooks
+###  Spark Machine Learning (MLlib) Notebooks
 - <b> [MLlib Basic Statistics](https://github.com/kaustuvkunal/Spark-Ecosystem-Tutorial/blob/main/MLlib/MLLib_BasicStatistics.ipynb) </b> 
 - <b> [MLlib Data Source & Data Types](https://github.com/kaustuvkunal/Spark-Ecosystem-Tutorial/blob/main/MLlib/MLLib_DataSources%26%20DataTypes.ipynb) </b>
 - <b> [Feature Engineering](https://github.com/kaustuvkunal/Spark-Ecosystem-Tutorial/blob/main/MLlib/MLLib_FeatureEngineering.ipynb) </b>
