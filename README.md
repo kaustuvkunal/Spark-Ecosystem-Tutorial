@@ -11,11 +11,11 @@
 ### Spark Structured-Streaming [Tutorial Notebook](https://github.com/kaustuvkunal/Spark-Ecosystem-Tutorial/blob/main/Structured_Streaming_Tutorial.ipynb)
 
 ###  Spark MLlib Notebooks
-  - MLlib Basic Statistics 
-  - MLlib Data Source & Data Types
-  - Feature Engineering
-  - Classification & Regression Models
-  - Clustering Algorithms
-  - Pattern Matching & Collaborative Filtering
-  - ML Pipelines
-  - ML Tuning
+  #### MLlib Basic Statistics 
+  #### MLlib Data Source & Data Types
+  #### Feature Engineering
+  #### Classification & Regression Models
+  #### Clustering Algorithms
+  #### Pattern Matching & Collaborative Filtering
+  #### ML Pipelines
+  #### ML Tuning
