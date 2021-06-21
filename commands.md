@@ -3,7 +3,7 @@
 - Start master : 
   `sbin/start-master.sh`
   
-- Start slaves :(in case of multi node cluster):
+- Start slaves (in case of multi node cluster):
   `start-slave.sh spark://host_name:7077`
   
 - Start worker with one core 
