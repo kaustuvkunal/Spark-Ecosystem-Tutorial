@@ -12,7 +12,7 @@
 - Start worker with three core : 
   ` start-slave.sh -c 3  spark://localhost:7077`
   
- - Run Spark on HDFS : 
+ - Submiting an example Spark application on HDFS : 
   `spark-submit master yarn sparktest.py  /input/bidWin.log  /output/pysparkout`
     
     
