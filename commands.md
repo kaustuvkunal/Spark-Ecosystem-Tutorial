@@ -7,10 +7,10 @@
   `start-slave.sh spark://host_name:7077`
   
 - Start worker with one core : 
-  `start-slave.sh -c 1  spark:// localhost:7077`
+  ` start-slave.sh -c 1  spark:// localhost:7077 `
   
 - Start worker with three core : 
-  `start-slave.sh -c 3  spark://localhost:7077
+  ` start-slave.sh -c 3  spark://localhost:7077`
   
  - Run Spark on HDFS : 
   `spark-submit master yarn sparktest.py  /input/bidWin.log  /output/pysparkout`
