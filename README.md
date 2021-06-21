@@ -1,6 +1,6 @@
-# Spark-Ecosystem-Tutorial
+# Spark and It's Ecosystem
 
-## Extensive tutorial on Apache Spark &amp; Its Ecosystem Libraries
+##  An extensive tutorial on Apache Spark &amp; Its Ecosystem Libraries
 
 ### Spark & Its Ecosystem [Presentation Slides](https://www.slideshare.net/KaustuvKunal/apache-spark-its-ecosystem-249424395)
 
