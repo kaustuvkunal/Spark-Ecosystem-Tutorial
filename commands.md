@@ -14,10 +14,6 @@
   
  - Run Spark on HDFS : 
   `spark-submit master yarn sparktest.py  /input/bidWin.log  /output/pysparkout`
-    ```bin/spark-submit --class org.apache.spark.examples.SparkPi \
-    --master yarn \   
-    examples/jars/spark-examples*.jar \
-    10```
     
     
 - Start historyserver :
