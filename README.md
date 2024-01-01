@@ -2,7 +2,7 @@
 
 ##  An extensive tutorial on Apache Spark, Its  API's & High Level Libraries
 
-### Spark & Its Ecosystem [Presentation Slides](https://www.slideshare.net/KaustuvKunal/apache-spark-its-ecosystem-249424395)
+### Spark & Its Ecosystem [Presentation Slides](https://kaustuvkunal.github.io/files/spark.pdf)
 
 ### Spark [Basic Commands](https://github.com/kaustuvkunal/Spark-Ecosystem-Tutorial/blob/main/commands.md) 
 ### Spark PySpark [Tutorial Notebook](https://github.com/kaustuvkunal/Spark-Ecosystem-Tutorial/blob/main/Pyspak_demo.ipynb)
